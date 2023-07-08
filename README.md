@@ -36,7 +36,7 @@ Once the model is trained, it can be used to generate responses to new cybersecu
 Run the script in a Python environment with all necessary libraries installed:
 
 ```
-python chatbot_script.py
+python BroHam.py
 ```
 
 The script will then load the data, train the model and print out the training history. You can then use the trained model for chatbot inference.
